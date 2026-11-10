@@ -39,4 +39,4 @@ plt.title('Rendimiento de la Red Convolutiva (15 épocas)')
 plt.xlabel('Época')
 plt.ylabel('Accuracy')
 plt.legend()
-plt.show()¿
+plt.show()
